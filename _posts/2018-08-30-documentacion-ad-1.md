@@ -51,6 +51,7 @@ Al ver esta respuesta, salta de sobre manera la falta de documentación
 ** ERROR ** Al haber participado en reuniones donde se realizaron ofrecimientos de partir la torta, sabemos que mucho de lo presupuestado esta dirigido a diversas empresas internacionales como nacionales.
 
 ## Lista de documentos obtenidos
+
 | Fuente | Descripción documento | URL |
 |:------|:------|:----|
 |SENATICs|Plan Nacional de TIC - Agosto 2018|https://drive.google.com/open?id=1SPUSpBonHDRRpSNQy88KZAhxdM2WVwJu|
