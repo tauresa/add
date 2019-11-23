@@ -4,15 +4,13 @@ title: Acerca de ...
 subtitle: ¿Qué querés saber sobre la Agenda Digital?
 ---
 
-Somos varios técnicos que estamos empeñados en:
+Somos varios técnicos (informáticos, abogados, economistas) que estamos empeñados en:
 
-- Aportar conocimientos para la definición del plan de la Agenda Digital
+- La total redefinición del plan de la Agenda Digital
 - Trabajar colaborativamente
 - Hacer llegar nuestras propuestas por los medios que tengamos
 - Exigir a nuestras autoridades la transparencia de todo el proceso
+- Monitorear cada gasto que se realice dentro del contexto.
 
-¿Qué mas necesitas saber?
-
-### nuestra historia
-
-Todo empezó cuando... [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) alli **all** tus preguntas.
+### ¿Qué mas necesitas saber?
+Hacenos llegar tus consultas o lo que quieras saber respecto a cualquier parte del plan, si no tenemos las repuestas las buscaremos para vos. Esto es un trabajo colaborativo, pretende aportar a la sociedad los conociminetos que tenemos como parte de lo que recibimos, creemos que esta es la unica forma de construir. 
