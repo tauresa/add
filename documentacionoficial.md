@@ -10,59 +10,59 @@ Este es el listado de las documentaciones ofrecidas por el gobierno durante el s
 
 ## Componente 1: Gobierno Electrónico
 
-|#|Titulo|Año|Autor|valido|
-|1|[Trámites más demandados por la ciudadanía y el sector privado al sector público del Paraguay](https://www.mitic.gov.py/download_file/view/673/708)|2018|Bogado Tabacman, J.|SI|
-|1|[Simplificando vidas y calidad de los servicios públicos](https://www.mitic.gov.py/download_file/view/674/708)|2015|Pareja, A. y otros.|no|
-|1|[Medición de los costos administrativos de realizar tramites en Paraguay](https://www.mitic.gov.py/download_file/view/672/708)|2018|Rodrigo, D., Dos Santos, J.|si|
-|1|[Centro de Operaciones de Ciberseguridad. The SOC Project Paraguay](https://www.mitic.gov.py/download_file/view/671/708)|2018|Cygov|SI|
-|1|[Cyber Security Strategy PY](https://www.mitic.gov.py/download_file/view/670/708)|2018|Cygov|SI|
-|1|[Borrador TdR GobLab](https://www.mitic.gov.py/download_file/view/794/708)|2018|IFD/ICS|NO|
-|2|[Borrador TdR Piloto de desarrollo e implementación de la firma digital en la nube](http://gestordocumental.mitic.gov.py/share/s/tlBi2-87QuOupEFd44Sx3A)|2019|ICS/CPR|no|
-|2|[Reformas en el marco regulatorio identificadas - Documento interno](https://www.mitic.gov.py/download_file/view/812/708)|2017| SENATICs|no|
+|#|P|Titulo|Año|Autor|valido|
+|1|1|[Trámites más demandados por la ciudadanía y el sector privado al sector público del Paraguay](https://www.mitic.gov.py/download_file/view/673/708)|2018|Bogado Tabacman, J.|SI|
+|2|1|[Simplificando vidas y calidad de los servicios públicos](https://www.mitic.gov.py/download_file/view/674/708)|2015|Pareja, A. y otros.|no|
+|3|1|[Medición de los costos administrativos de realizar tramites en Paraguay](https://www.mitic.gov.py/download_file/view/672/708)|2018|Rodrigo, D., Dos Santos, J.|si|
+|4|1|[Centro de Operaciones de Ciberseguridad. The SOC Project Paraguay](https://www.mitic.gov.py/download_file/view/671/708)|2018|Cygov|SI|
+|5|1|[Cyber Security Strategy PY](https://www.mitic.gov.py/download_file/view/670/708)|2018|Cygov|SI|
+|6|1|[Borrador TdR GobLab](https://www.mitic.gov.py/download_file/view/794/708)|2018|IFD/ICS|NO|
+|7|2|[Borrador TdR Piloto de desarrollo e implementación de la firma digital en la nube](http://gestordocumental.mitic.gov.py/share/s/tlBi2-87QuOupEFd44Sx3A)|2019|ICS/CPR|no|
+|8|2|[Reformas en el marco regulatorio identificadas - Documento interno](https://www.mitic.gov.py/download_file/view/812/708)|2017| SENATICs|no|
 
 ## Componente 2: Economía Digital y Talento TI
 
-|#|Titulo|Año|Autor|valido|
-|1|[Características propias y costos del sitio propuesto para el Distrito Digital](https://www.mitic.gov.py/download_file/view/688/708)|2018|Arandu Arquitectura|no| 
-|1|[Construyendo un Distrito Digital, estudio de casos, Plan de Tecnología](https://www.mitic.gov.py/download_file/view/676/708)|2013|Escuela Unificada del Distrito de San Francisco|no|  
-|1|[Plan de Higiene y Seguridad. Construcción y operación del Distrito Digital](https://www.mitic.gov.py/download_file/view/682/708)|2018|Oporto, O.|no|
-|1|[Análisis Ambiental y Social del Proyecto de Construcción y Operación del Distrito Digital](https://www.mitic.gov.py/download_file/view/679/708)|2018|Oporto, O.|no|
-|1|[Estudio Geotécnico](https://www.mitic.gov.py/download_file/view/795/708)|2018|Bellasai, C.|no|
-|1|[Consultoría "Creación de un distrito digital"](https://www.mitic.gov.py/download_file/view/796/708)|2018|Amestoy, F.|si|
-|1|[Encuesta. Innovacion Empresarial, Paraguay](https://www.mitic.gov.py/download_file/view/680/708)|2017|DGEEC, Conacyt.|si|
-|1|[Encuesta a empresas TIC - Productoras y Consumidoras](https://www.mitic.gov.py/download_file/view/698/708)|2017|SENATICs.|si|
-|1|[Diseño de un instrumento de extensionismo digital: Promoviendo la transformación digital en América Latina y el Caribe](https://www.mitic.gov.py/download_file/view/685/708)|2018|Sierra, P.|si|
-|1|[Informe de Evaluación Emprendedores Innovadores](https://www.mitic.gov.py/download_file/view/797/708)|2017|Agencia Nacional de Investigación e Innovación|no|
-|1|[Síntesis Ejecutiva del Informe de Evaluación Emprendedores Innovadores](https://www.mitic.gov.py/download_file/view/798/708)|2017| Agencia Nacional de Investigación e Innovación|no| 
-|1|[Oportunidades sectoriales para la focalización del Programa de Innovación en Empresas Paraguayas (PROINNOVA)](https://www.mitic.gov.py/download_file/view/799/708)|2018|Díaz Bustamante, A. |si|
-|1|[Consultoría. Diseño de un instrumento de extensionismo digital](https://www.mitic.gov.py/download_file/view/800/708)|2018|Sierra, P. |no|
-|1|[Términos de Referencia Misión Especial Uruguay](https://www.mitic.gov.py/download_file/view/801/708)|2018|BID|no|
-|1|[Agenda de Misión 10 al 13 de abril](https://www.mitic.gov.py/download_file/view/802/708)|2018|Diaz, A, y Sierra, P. |no|
+|#|P|Titulo|Año|Autor|valido|
+|1|1|[Características propias y costos del sitio propuesto para el Distrito Digital](https://www.mitic.gov.py/download_file/view/688/708)|2018|Arandu Arquitectura|no| 
+|2|1|[Construyendo un Distrito Digital, estudio de casos, Plan de Tecnología](https://www.mitic.gov.py/download_file/view/676/708)|2013|Escuela Unificada del Distrito de San Francisco|no|  
+|3|1|[Plan de Higiene y Seguridad. Construcción y operación del Distrito Digital](https://www.mitic.gov.py/download_file/view/682/708)|2018|Oporto, O.|no|
+|4|1|[Análisis Ambiental y Social del Proyecto de Construcción y Operación del Distrito Digital](https://www.mitic.gov.py/download_file/view/679/708)|2018|Oporto, O.|no|
+|5|1|[Estudio Geotécnico](https://www.mitic.gov.py/download_file/view/795/708)|2018|Bellasai, C.|no|
+|6|1|[Consultoría "Creación de un distrito digital"](https://www.mitic.gov.py/download_file/view/796/708)|2018|Amestoy, F.|si|
+|7|1|[Encuesta. Innovacion Empresarial, Paraguay](https://www.mitic.gov.py/download_file/view/680/708)|2017|DGEEC, Conacyt.|si|
+|8|1|[Encuesta a empresas TIC - Productoras y Consumidoras](https://www.mitic.gov.py/download_file/view/698/708)|2017|SENATICs.|si|
+|9|1|[Diseño de un instrumento de extensionismo digital: Promoviendo la transformación digital en América Latina y el Caribe](https://www.mitic.gov.py/download_file/view/685/708)|2018|Sierra, P.|si|
+|10|1|[Informe de Evaluación Emprendedores Innovadores](https://www.mitic.gov.py/download_file/view/797/708)|2017|Agencia Nacional de Investigación e Innovación|no|
+|11|1|[Síntesis Ejecutiva del Informe de Evaluación Emprendedores Innovadores](https://www.mitic.gov.py/download_file/view/798/708)|2017| Agencia Nacional de Investigación e Innovación|no| 
+|12|1|[Oportunidades sectoriales para la focalización del Programa de Innovación en Empresas Paraguayas (PROINNOVA)](https://www.mitic.gov.py/download_file/view/799/708)|2018|Díaz Bustamante, A. |si|
+|13|1|[Consultoría. Diseño de un instrumento de extensionismo digital](https://www.mitic.gov.py/download_file/view/800/708)|2018|Sierra, P. Duplicación del #9|no|
+|14|1|[Términos de Referencia Misión Especial Uruguay](https://www.mitic.gov.py/download_file/view/801/708)|2018|BID|no|
+|15|1|[Agenda de Misión 10 al 13 de abril](https://www.mitic.gov.py/download_file/view/802/708)|2018|Diaz, A, y Sierra, P. |no|
 
 ## Componente 3: Conectividad
 
-|#|Titulo|Año|Autor|valido|
-|1|[Análisis Medioambiental sitios e instituciones públicas a ser conectadas](https://www.mitic.gov.py/download_file/view/689/708)|2018|Deloitte|no|
-|1|[Desarrollo de la banda ancha en Paraguay. Capex Conectividad Nacional e Internacional](https://www.mitic.gov.py/download_file/view/695/708)|2018|Deloitte|no|
-|1|[Conectividad de instituciones públicas](https://www.mitic.gov.py/download_file/view/693/708)|2018|Deloitte|no|
-|1|[Desarrollo de la banda ancha en Paraguay. Posible solución, salida internacional por Argentina](https://www.mitic.gov.py/download_file/view/692/708)|2018|Deloitte|no|
-|1|[Relevamiento Fibra óptica de la ANDE, y estado actual banda ancha en PY](https://www.mitic.gov.py/download_file/view/694/708)|2018|Deloitte|no|
-|1|[Desarrollo de la banda ancha en Paraguay. Análisis y proyección de la demanda](https://www.mitic.gov.py/download_file/view/691/708)|2018|Deloitte|no|
-|1|[Análisis de los beneficios del despliegue del Centro de Datos en Paraguay](https://www.mitic.gov.py/download_file/view/690/708)|2018|Networld Consulting|si|
-|1|[Estudio técnico para despliegue de un Centro de Datos en Paraguay](https://www.mitic.gov.py/download_file/view/793/708)|2018|Networld Consulting|si|
-|2|[Componente 3. Resúmen de productos y costos](https://www.mitic.gov.py/download_file/view/809/708)|2018|BID|no|
-|2|[Producto 18. Anexo Clasificación y requerimientos](https://www.mitic.gov.py/download_file/view/803/708)|2018|SENATIC|no|
-|2|[Producto 18. Conectividad Instituciones](https://www.mitic.gov.py/download_file/view/804/708)|2018|Deloitte|no|
-|2|[Producto 18. Geolocalización de instituciones a ser conectadas](https://www.mitic.gov.py/download_file/view/805/708)|2018|SENATICS|no|
-|2|[Producto 19. Data Center. Estudio Geotécnico](https://www.mitic.gov.py/download_file/view/795/708)|2018|Bellasai, C.|no|
-|2|[Producto 19. Data Center. Ampliación del NOC.](https://www.mitic.gov.py/download_file/view/806/708)|2018|SENATICs|no|
-|2|[Producto 20. Derechos de uso para conectividad internacional. CAPEX (Inversión inicial).](https://www.mitic.gov.py/download_file/view/807/708)|2018|BID|no| 
-|2|[Sitios de Internet Gratuito en Espacios Públicos.](https://www.mitic.gov.py/download_file/view/824/708)|2018|SENATICs|no|
+|#|P|Titulo|Año|Autor|valido|
+|1|1|[Análisis Medioambiental sitios e instituciones públicas a ser conectadas](https://www.mitic.gov.py/download_file/view/689/708)|2018|Deloitte|no|
+|2|1|[Desarrollo de la banda ancha en Paraguay. Capex Conectividad Nacional e Internacional](https://www.mitic.gov.py/download_file/view/695/708)|2018|Deloitte|no|
+|3|1|[Conectividad de instituciones públicas](https://www.mitic.gov.py/download_file/view/693/708)|2018|Deloitte|no|
+|4|1|[Desarrollo de la banda ancha en Paraguay. Posible solución, salida internacional por Argentina](https://www.mitic.gov.py/download_file/view/692/708)|2018|Deloitte|no|
+|5|1|[Relevamiento Fibra óptica de la ANDE, y estado actual banda ancha en PY](https://www.mitic.gov.py/download_file/view/694/708)|2018|Deloitte|no|
+|6|1|[Desarrollo de la banda ancha en Paraguay. Análisis y proyección de la demanda](https://www.mitic.gov.py/download_file/view/691/708)|2018|Deloitte|no|
+|7|1|[Análisis de los beneficios del despliegue del Centro de Datos en Paraguay](https://www.mitic.gov.py/download_file/view/690/708)|2018|Networld Consulting|si|
+|8|1|[Estudio técnico para despliegue de un Centro de Datos en Paraguay](https://www.mitic.gov.py/download_file/view/793/708)|2018|Networld Consulting|si|
+|9|2|[Componente 3. Resúmen de productos y costos](https://www.mitic.gov.py/download_file/view/809/708)|2018|BID|no|
+|10|2|[Producto 18. Anexo Clasificación y requerimientos](https://www.mitic.gov.py/download_file/view/803/708)|2018|SENATIC|no|
+|11|2|[Producto 18. Conectividad Instituciones](https://www.mitic.gov.py/download_file/view/804/708)|2018|Deloitte|no|
+|12|2|[Producto 18. Geolocalización de instituciones a ser conectadas](https://www.mitic.gov.py/download_file/view/805/708)|2018|SENATICS|no|
+|13|2|[Producto 19. Data Center. Estudio Geotécnico](https://www.mitic.gov.py/download_file/view/795/708)|2018|Bellasai, C.|no|
+|14|2|[Producto 19. Data Center. Ampliación del NOC.](https://www.mitic.gov.py/download_file/view/806/708)|2018|SENATICs|no|
+|15|2|[Producto 20. Derechos de uso para conectividad internacional. CAPEX (Inversión inicial).](https://www.mitic.gov.py/download_file/view/807/708)|2018|BID|no| 
+|16|2|[Sitios de Internet Gratuito en Espacios Públicos.](https://www.mitic.gov.py/download_file/view/824/708)|2018|SENATICs|no|
 
 ## Componente 4: Fortalecimiento Institucional
 
-|#|Titulo|Año|Autor|valido|
-|1|[Informe final. Plan de Fortalecimiento Institucional de la SENATICs](https://www.mitic.gov.py/download_file/view/696/708)|2018|Grupo von Bargen|no|
+|#|P|Titulo|Año|Autor|valido|
+|1|1|[Informe final. Plan de Fortalecimiento Institucional de la SENATICs](https://www.mitic.gov.py/download_file/view/696/708)|2018|Grupo von Bargen|no|
 
 ## Requerimientos legales para aprobación del préstamo
 
