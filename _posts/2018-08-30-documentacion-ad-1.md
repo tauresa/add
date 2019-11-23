@@ -9,7 +9,7 @@ tags: [documentacion, senatic, agenda digital, pnt, plan nacional de TIC]
 comments: true
 ---
 
-En [Agosto del 2018](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/15313) se hace uno de los primeros pedidos de acceso a la información pública utilizando el portal unificado de lo que el gobierno da a llamar "transparencia activa".
+En [Agosto del 2018](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/15313) se hace uno de los primeros pedidos de acceso a la información pública utilizando el portal unificado de lo que el gobierno da a llamar "transparencia activa". Este pedido se hace dado el hecho de que el 15 de agosto asumió el nuevo gobierno, por lo que había mayor probabilidad de que entreguen la documentacion
 
 ## Documentación de SENATIC (Periodo de Martin)
 La información que entregaron fue básicamente la memoria institucional de la SENATICS del 2013 al 2018 ([Gestión de David Ocampos](http://gestordocumental.senatics.gov.py/share/s/yYBE6QMIR-aAZnONwl2d2A)). Y un URL al [Plan Nacional de Tecnología de la Información y Comunicación](https://pnt.paraguay.gov.py/). Pueden ver una copia de lo que había en aquel tiempo [acá](https://web.archive.org/web/20180815115622/http://pnt.paraguay.gov.py/).
