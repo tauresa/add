@@ -1,8 +1,8 @@
 <!-- TODO this file has become a mess, refactor it -->
 
-{% if page.bigimg or page.title %}
+{% if page.bigimg or page.title or prods.bigimg prods.title %}
 
-{% if page.bigimg %}
+{% if page.bigimg or prods.bigimg %}
   <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
     {% for bigimg in page.bigimg %}
 	  {% assign imgnum = forloop.index %}
@@ -19,7 +19,7 @@
 {% endif %}
 
 <header class="header-section {% if page.bigimg %}has-img{% endif %}">
-{% if page.bigimg %}
+{% if page.bigimg or prods.bigimg%}
 <div class="big-img intro-header">
   <div class="container">
     <div class="row">
@@ -27,12 +27,12 @@
         <div class="{{ include.type }}-heading">
           <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
 		  {% if page.subtitle %}
-		    {% if include.type == "page" %}
-            <hr class="small">
-            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
-			{% else %}
-			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
-			{% endif %}
+		    {% if include.type == "page" or include.type =="prods" %}
+          <hr class="small">
+          <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+			  {% else %}
+			    <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+			  {% endif %}
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
@@ -51,18 +51,18 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="{{ include.type }}-heading">
           <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
-		  {% if page.subtitle %}
-		    {% if include.type == "page" %}
-            <hr class="small">
-            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
-			{% else %}
-			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
-			{% endif %}
-		  {% endif %}
-		  
-		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: site.date_format }}</span>
-		  {% endif %}
+          {% if page.subtitle %}
+            {% if include.type == "page" or include.type == "prods" %}
+                <hr class="small">
+                <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+            {% else %}
+              <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+            {% endif %}
+          {% endif %}
+          
+          {% if include.type == "post" %}
+          <span class="post-meta">Posted on {{ page.date | date: site.date_format }}</span>
+          {% endif %}
         </div>
       </div>
     </div>

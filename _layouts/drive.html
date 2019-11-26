@@ -1,0 +1,29 @@
+---
+layout: page
+---
+
+<div class="container" role="main">
+  <div class="row">
+    <!--div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"-->
+    <div class="col-lg-20">
+        {{ content }}
+        <iframe src="https://drive.google.com/embeddedfolderview?id=1m80eo5xSqIhXSwYknyluw7HZjgsR9BUR" width="100%" height="500px"></iframe>
+        <div class="disqus-comments">
+	        Drive Agenda Digital PY
+        </div> 
+        <iframe src="https://drive.google.com/embeddedfolderview?id=1MSPHI08I40BSx7eS4DSL6nJUBODHzrQK" width="100%" height="500px"></iframe>
+	    {% if page.comments %}
+        <div class="disqus-comments">
+	        {% include disqus.html %}
+        </div>
+	        {% include fb-comment.html %}
+        <div class="staticman-comments">
+          {% include staticman-comments.html %}
+        </div>
+        <div class="justcomments-comments">
+          {% include just_comments.html %}
+        </div>
+	    {% endif %}
+    </div>
+  </div>
+</div>

@@ -2,7 +2,7 @@
 layout: post
 title: Primeros análisis
 bigimg: /img/black.jpg
-image: /img/comunidad.png
+image: /img/comunidad.jpg
 gh-repo: tauresa/dad
 gh-badge: [star, fork, follow]
 tags: [twitter]

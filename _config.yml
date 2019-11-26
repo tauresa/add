@@ -20,21 +20,22 @@ description: Analisis, propuestas y discusiones para la Disrupcion de la Agenda 
 
 # List of links in the navigation bar
 navbar-links:
-  Acerca de: "acercade"
-  Recursos:
-    - Agenda Digital MITIC: "https://www.mitic.gov.py/agenda-digital/portada"
-    - Agenda Digital PY: "https://www.agendadigital.com.py/"
-  Documentacion: 
-    - Documentación Oficial: "documentacionoficial"
-    - Documentación Real: "documentacionreal"
-  Propuestas: 
-    - Agenda Digital: "agendadigital"
+  Agenda Digital: 
+    - Que es: "agendadigital"
     - Gobierno Electrónico: "gob-e"
     - Economía Digital: "economiadigital"
     - Infraestructura: "infraestructura"
     - Fortalecimiento: "fortalecimiento"
     - Evaluacion: "evaluacion"
-
+  Documentacion: 
+    - Documentación Oficial: "documentacionoficial"
+    - Documentación Real: "documentacionreal"
+    - Documentación Yapa: "documentacionextra"
+  Recursos:
+    - Agenda Digital MITIC: "https://www.mitic.gov.py/agenda-digital/portada"
+    - Agenda Digital PY: "https://www.agendadigital.com.py/"
+  Acerca de: "acercade"
+  
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/icon.png"
@@ -175,6 +176,15 @@ paginate: 5
 kramdown:
   input: GFM
 
+
+collections:
+  prods:
+    output: true
+    permalink: /productos/:name
+  posts:
+    output: true
+    permalink: /:year-:month-:day-:title/
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
@@ -183,6 +193,14 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: ""
+      type: "prods"
+    values:
+      layout: "prods"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -

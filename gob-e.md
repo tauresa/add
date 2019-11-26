@@ -20,11 +20,11 @@ El Organismo Ejecutor (OE) apoyará a entidades del sector público beneficiadas
 Componente 1. Reingenieria y Digitalización de procesos y mejora de la entrega de servicios prestados por el sector público				
 
 |#|Productos|Unidad de Medida|Costo USD|Año LB|Línea de Base|Meta Final|Medios de Verificación|
-|1|Propuestas de normativas en gobierno digital y sectores estratégicos, elaboradas|# Normativas|500.000|2018|0|10|- Documentos propuesta de las normativas|
-|2|Servicios simplificados y digitalizados|# Servicios|3.000.000|2018|0|120|Reportes anuales indicando la lista de trámites simplificados y, para cada uno, cuáles fueron las simplificaciones o los pasos o registros digitalizados|
-|3|Sistema de Información de Salud (HIS), digitalizado|% del HIS digitalizado|5.500.000|2018|25|100|Reporte anual de grado de avance|
-|4|Plan de Mejora de los servicios brindados por el Servicio Nacional de Catastro, implementado|% de avance de acciones planificadas|2.270.000|2018|0|100|Reporte anual de grado de avance|
-|5|Aplicaciones transversales de gobierno digital, desarrolladas e implementadas|# Aplicaciones|6.000.000|2018|0|10|Reporte final de cada aplicación transversal implementada|
-|6|Laboratorio de innovación gubernamental para apoyar el desarrollo de proyectos específicos de gobierno digital, implementado|# Proyectos|8.000.000|2018|0|20|Informes finales de cada proyecto|
-|7|Modelo de atención multicanal, implementado|#Modelo|3.330.000|2018|0|1|Informe de Progreso del Programa|
-|8|Sistema Nacional de Ciberseguridad, fortalecido|% de avance del sistema|4.000.000|2018|0|100|Informes finales de: 1) propuestas de mejora regulatoria, 2) SOC implementado y CERT fortalecido, 3) infraestructuras críticas, y 4) fortalecimiento técnico.|
+|1|[Propuestas de normativas en gobierno digital y sectores estratégicos, elaboradas](/productos/p1/)|# Normativas|500.000|2018|0|10|- Documentos propuesta de las normativas|
+|2|[Servicios simplificados y digitalizados](/productos/p2/)|# Servicios|3.000.000|2018|0|120|Reportes anuales indicando la lista de trámites simplificados y, para cada uno, cuáles fueron las simplificaciones o los pasos o registros digitalizados|
+|3|[Sistema de Información de Salud (HIS), digitalizado](/productos/p3/)|% del HIS digitalizado|5.500.000|2018|25|100|Reporte anual de grado de avance|
+|4|[Plan de Mejora de los servicios brindados por el Servicio Nacional de Catastro, implementado](/productos/p4/)|% de avance de acciones planificadas|2.270.000|2018|0|100|Reporte anual de grado de avance|
+|5|[Aplicaciones transversales de gobierno digital, desarrolladas e implementadas](/productos/p5/)|# Aplicaciones|6.000.000|2018|0|10|Reporte final de cada aplicación transversal implementada|
+|6|[Laboratorio de innovación gubernamental para apoyar el desarrollo de proyectos específicos de gobierno digital, implementado](/productos/p6/)|# Proyectos|8.000.000|2018|0|20|Informes finales de cada proyecto|
+|7|[Modelo de atención multicanal, implementado](/productos/p7/)|#Modelo|3.330.000|2018|0|1|Informe de Progreso del Programa|
+|8|[Sistema Nacional de Ciberseguridad, fortalecido](/productos/p8/)|% de avance del sistema|4.000.000|2018|0|100|Informes finales de: 1) propuestas de mejora regulatoria, 2) SOC implementado y CERT fortalecido, 3) infraestructuras críticas, y 4) fortalecimiento técnico.|
