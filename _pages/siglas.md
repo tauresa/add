@@ -1,4 +1,5 @@
 ---
+permalink: /siglas/
 layout: page
 title: Siglas
 subtitle: Siglas utilizadas en los instrumentos de Planificación de Apoyo a la Agenda Digital PR-L1153

@@ -1,4 +1,5 @@
 ---
+permalink: /infraestructura/
 layout: page
 title: Infraestructura
 subtitle: Componente 3. Extensión del uso de BA y mejora de su calidad y precio.

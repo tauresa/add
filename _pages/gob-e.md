@@ -1,4 +1,5 @@
 ---
+permalink: /gob-e/
 layout: page
 title: Gobierno Electrónico
 subtitle: Componente 1. Digitalización de procesos y mejora de la entrega de servicios prestados por el sector público.

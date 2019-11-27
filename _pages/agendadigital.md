@@ -1,4 +1,5 @@
 ---
+permalink: /agendadigital/
 layout: page
 title: Agenda Digital
 subtitle: Objetivos del programa

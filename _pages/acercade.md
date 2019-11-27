@@ -1,4 +1,5 @@
 ---
+permalink: /acercade/
 layout: page
 title: Acerca de ...
 subtitle: ¿Qué querés saber sobre la Agenda Digital?
