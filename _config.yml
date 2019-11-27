@@ -11,10 +11,10 @@ description: Analisis, propuestas y discusiones para la Disrupcion de la Agenda 
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+# url: "https://tauresa.github.io"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -186,7 +186,7 @@ collections:
     permalink: /:year-:month-:day-:title/
   pages:
     output: true 
-    permalink: /:path
+    permalink: /:path/
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
